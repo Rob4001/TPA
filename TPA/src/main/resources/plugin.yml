@@ -1,0 +1,9 @@
+name: TPA
+main: com.mcgrapeseed.tpa.TPA
+version: 1.0.0
+author: Rob4001
+description: Basic TPA plugin
+commands:
+  tpa:
+    description: Manages teleport requests
+    usage: /<command> <player> - Requests a teleport
